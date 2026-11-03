@@ -18,4 +18,6 @@ The Katie's Video application source remains private. This repository contains n
 
 Katie's Video accepts updates only from this exact GitHub repository over HTTPS. Before an installer is opened, the application verifies its filename, download origin, published SHA-256 checksum, and final on-disk hash.
 
-For support, contact Kev Laws at `k.laws@katieobriensirishtaverns.com`.
+## Support
+
+Contact Kev Laws at `k.laws@katieobriensirishtaverns.com`.
